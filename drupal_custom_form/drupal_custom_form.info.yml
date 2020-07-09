@@ -1,0 +1,5 @@
+name: Drupal Custom Form
+description: Custom form that will send a message after submit
+type: module
+package: Custom
+core: 8.x

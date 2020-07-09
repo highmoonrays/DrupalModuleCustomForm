@@ -1,0 +1,7 @@
+custom_form:
+  path: '/custom-form'
+  defaults:
+    _form: 'Drupal\drupal_custom_form\Form\CustomForm'
+    _title: 'Fill The Form'
+  requirements:
+    _permission: 'access content'
